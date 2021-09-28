@@ -16,5 +16,5 @@ In `DataSet` Folder there is 3 folder
 
 | Classification  | Accuracy Score |
 | --- | --- |
-| Binary class classification (Covid-19 vs. No-finding) | 98.54  |
-| Multi class classification (Covid-19 vs. Pneumonia vs. No-finding)  | 91.11  |
+| Binary class classification (Covid-19 vs. No-finding) | 99.20  |
+| Multi class classification (Covid-19 vs. Pneumonia vs. No-finding)  | 94.22  |
