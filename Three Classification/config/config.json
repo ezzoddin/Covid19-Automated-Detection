@@ -1,0 +1,16 @@
+{
+  "model"           : "DenseNet169",
+  "weights"         : "imagenet",
+  "include_top"     : false,
+
+  "train_path"      : "/content/drive/MyDrive/covid19/DataSet",
+  "features_path"   : "/content/drive/MyDrive/covid19/output/DenseNet169/features.h5",
+  "labels_path"     : "/content/drive/MyDrive/covid19/output/DenseNet169/labels.h5",
+  "results"         : "/content/drive/MyDrive/covid19/output/DenseNet169/results.txt",
+  "classifier_path" : "/content/drive/MyDrive/covid19/output/DenseNet169/classifier.pickle",
+  "model_path"      : "/content/drive/MyDrive/covid19/output/DenseNet169/model",
+
+  "test_size"       : 0.20,
+  "seed"            : 9,
+  "num_classes"     : 3
+}
